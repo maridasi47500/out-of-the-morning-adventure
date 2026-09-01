@@ -1,5 +1,10 @@
 🌄 Out of the Morning: From Dusk Till Dawn
-
+- trajets à pied en groupe / équipe
+- 
+- trajets en train, bus
+- musiques écoutées
+- 
+- 
 *Would you dare travel from dusk till dawn?* This is not just an app. It’s
 a challenge to live deliberately, to move with the weather, to write your
 own story — one timestamp at a time.
