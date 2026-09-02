@@ -1,10 +1,20 @@
 🌄 Out of the Morning: From Dusk Till Dawn
 - trajets à pied en groupe / équipe
 - 
-- trajets en train, bus
+- trajets en train, bus jusqu'à une ville
+- offre d'emploi , postuler à une offre d'emploi 
 - musiques écoutées
 - 
-- 
+- Qui va vous guider à travers le côté obscur de la matinée ?
+
+Qui va te bercer quand le soleil ne te laissera pas dormir ?
+
+Qui se réveille pour te ramener à la maison ?
+
+Quand tu es ivre et tout seul ?
+
+Qui va vous guider à travers le côté obscur du matin ?
+
 *Would you dare travel from dusk till dawn?* This is not just an app. It’s
 a challenge to live deliberately, to move with the weather, to write your
 own story — one timestamp at a time.
