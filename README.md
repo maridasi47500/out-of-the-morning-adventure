@@ -15,6 +15,8 @@ Quand tu es ivre et tout seul ?
 
 Qui va vous guider à travers le côté obscur du matin ?
 
+- utilise un template de Cv "dawn" ou "Aurora"
+
 *Would you dare travel from dusk till dawn?* This is not just an app. It’s
 a challenge to live deliberately, to move with the weather, to write your
 own story — one timestamp at a time.
